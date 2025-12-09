@@ -55,12 +55,6 @@ Led a team of 6 developers building a **B2B ERP app** serving **50K+ daily activ
 - Implemented CI/CD pipelines with GitHub Actions and CodePush
 - Published and maintained apps on Play Store and App Store with offline support
 
-## Education & Recognition
-
-🎓 **B.Tech in Computer Science** – SSASIT (CGPA: 8.05)  
-🏆 **Alpha Player of 2024** – Outstanding performance award  
-🧠 **Google AI Workshop** – Explored cutting-edge AI advancements
-
 ## What's Next?
 
 Currently exploring backend development, system architecture, and advanced AI integrations to become a stronger full-stack developer. Always open to collaborating on exciting mobile and AI projects!
