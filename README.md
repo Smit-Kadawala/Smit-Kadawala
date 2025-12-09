@@ -21,9 +21,7 @@ Say Hi! 👋
 
 ## My Creations
 
-### AI ChatBot 🤖
-
-**[iOS](link) | [Android](link)**
+### AI ChatBot 🤖 | <a href="https://apps.apple.com/in/app/ai-roleplay-fantasy-chat/id6745148608">Ios</a> | <a href="https://play.google.com/store/apps/details?id=com.aifantasy.ponikar">Android</a>
 
 A context-aware AI chat application with immersive character-driven storytelling experiences powered by Google Gemini 2.0 Flash.
 
@@ -35,15 +33,11 @@ A context-aware AI chat application with immersive character-driven storytelling
 - Admin dashboard for character management and analytics
 - Freemium monetization with tiered subscriptions
 
-### TileShift - Tile Puzzle Game 🎮
-
-**[Android](link)**
+### TileShift - Tile Puzzle Game 🎮 | <a href="https://play.google.com/store/apps/details?id=com.tilecraft">Android</a>
 
 Classic sliding-puzzle mobile game featuring multiple grid sizes, image puzzles, and smooth animations for an optimized gaming experience.
 
-### NeuroDex - AI Vocabulary App 📚
-
-**[Android](link)**
+### NeuroDex - AI Vocabulary App 📚 | <a href="https://play.google.com/store/apps/details?id=com.smitkadawala.hentaiDirectry">Android</a>
 
 Personalized vocabulary learning app using AI (Google Gemini, OpenAI GPT-4o) to generate context-based vocabulary tailored to user interests.
 
