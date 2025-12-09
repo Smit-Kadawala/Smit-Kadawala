@@ -71,4 +71,4 @@ Thank you for visiting my profile! Feel free to reach out anytime – let's buil
 
 **Happy Coding!** 💻
 
-![Goodbye](https://media.giphy.com/media/3oEdv4hwWTzBhWvaU0/giphy.gif)
+![Goodbye](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNodWhyajg4OWZ2YTlhZzlwcGo3aTA3ZDgyZjc4eHY2dTc1aGZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JeeMSIWWXVwZcgU/giphy.gif)
