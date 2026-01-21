@@ -15,7 +15,8 @@ Say Hi! 👋
 
 ### 🧠 Languages
 - JavaScript / TypeScript  
-- Java  
+- Java
+- C#
 - Swift  
 - SQL  
 
@@ -24,6 +25,7 @@ Say Hi! 👋
 - React.js  
 - Redux, Zustand, React Query  
 - Responsive UI & Design Systems  
+- Asp .Net
 
 ### 🧩 Backend & APIs
 - Firebase (Auth, Firestore, Functions)  
